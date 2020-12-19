@@ -1,3 +1,11 @@
+<html>
+  <head>
+<style>
+  body {
+  text-align: center;
+  }
+ </style>
+  </head>  
 <h1> Hi welcome to my github </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SynergyBest&color=01b78b" alt="SynergyBest" /> </p>
 <h3> Discord </h3>
