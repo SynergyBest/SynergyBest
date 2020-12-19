@@ -6,4 +6,6 @@ My Discord server is https://discord.gg/dCcBFwQStT
 My github org is @SynergyStudios
 ### Website
 My website is https://synergydev.tk
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SynergyBest)](https://github.com/anuraghazra/github-readme-stats)
