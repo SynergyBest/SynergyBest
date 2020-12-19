@@ -1,5 +1,5 @@
 # Hi welcome to my github
-![](https://hit.yhype.me/github/profile?user_id=72149158)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SynergyBest&color=01b78b" alt="SynergyBest" /> </p>
 ### Discord
 My Discord is Synergy#4200 Feel free to dm me.
 My Discord server is https://discord.gg/dCcBFwQStT
