@@ -5,5 +5,5 @@ My Discord is Synergy#4200 Feel free to dm me.
 My Discord server is https://discord.gg/dCcBFwQStT
 <h3> Org</h3>
 My github org is @SynergyStudios
-<h3> ### Website </h3>
+<h3> Website </h3>
 My website is https://synergydev.tk
