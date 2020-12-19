@@ -8,4 +8,4 @@ My github org is @SynergyStudios
 My website is https://synergydev.tk
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SynergyBest&count_private=true&show_icons=true)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SynergyBest&count_private=true&show_icons=true&bg_color=30,F6019D,9700CC,86A8E7)]
