@@ -1,5 +1,4 @@
 # Hi welcome to my github :wave:
-### Discord
 #### My Discord is Synergy#4200 Feel free to dm me.
 ### [Discord server](https://discord.gg/dCcBFwQStT)
 ### [Website](https://synergydev.xyz)
