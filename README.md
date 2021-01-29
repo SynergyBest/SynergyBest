@@ -2,10 +2,8 @@
 ### Discord
 My Discord is Synergy#0104 Feel free to dm me.
 My Discord server is https://discord.gg/dCcBFwQStT
-### Org
-My github org is @SynergyStudios
-### Website
-My website is https://synergydev.xyz
+### Org: @SynergyStudios
+### [Website](https://synergydev.xyz)
 ### [Forum](https://forum.synergydev.xyz)
 
 ![Anurag's github stats](https://readmestats.tk/api?username=SynergyBest&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
