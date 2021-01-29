@@ -1,8 +1,9 @@
 # Hi welcome to my github :wave:
 ### Discord
-My Discord is Synergy#0104 Feel free to dm me.
-My Discord server is https://discord.gg/dCcBFwQStT
-### Org: @SynergyStudios
+My Discord is Synergy#4200 Feel free to dm me.
+### [Discord server](https://discord.gg/dCcBFwQStT)
+### Org: 
+@SynergyStudios
 ### [Website](https://synergydev.xyz)
 ### [Forum](https://forum.synergydev.xyz)
 
