@@ -8,4 +8,5 @@ Just my website
 ![Top Langs](https://readmestats.tk/api/top-langs/?username=SynergyBest&langs_count=3&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117)
 
 (this looks good in dark mode, shame on you lightmode users)
+
 [//] I don't know why you're back here, but please DON'T use my readmestats use https://github.com/anuraghazra/github-readme-stats thanks!
