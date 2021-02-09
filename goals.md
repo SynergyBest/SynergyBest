@@ -1,5 +1,5 @@
 # Coding goals
-- [X] Learn python
+- [ ] Learn python
 - [ ] Learn django
 - [ ] Learn javascript
 - [ ] Learn Node.js
