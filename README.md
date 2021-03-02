@@ -1,6 +1,8 @@
 # Welcome to my github profile! :smile:
 My website is https://synergybest.dev
+
 My discord is Synergy#4200
+
 And my server is https://discord.gg/dCcBFwQStT
 
 ![SynergyBest's github stats](https://readmestats.tk/api?username=SynergyBest&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117)
