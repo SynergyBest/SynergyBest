@@ -1,16 +1,18 @@
 # Welcome to my github profile! :smile:
-My website is https://synergybest.dev
 
-My discord is [Synergy#4200](https://discord.com/users/543599597210304542)
+## Stats
 
-And my server is https://discord.gg/dCcBFwQStT
+![Top Langs](https://readmestats.tk/api/top-langs/?username=SynergyBest&langs_count=3&count_private=true&theme=dark&layout=compact)
 
-![SynergyBest's github stats](https://readmestats.tk/api?username=SynergyBest&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117)
-![Top Langs](https://readmestats.tk/api/top-langs/?username=SynergyBest&langs_count=3&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117)
+![SynergyBest's github stats](https://readmestats.tk/api?username=SynergyBest&count_private=true&show_icons=true&theme=dark)
 
-(this looks good in dark mode, shame on you lightmode users)
+## Spotify (used rarely)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jdqa26ml3wmhjt10cmsw527x4&cover_image=true&theme=novatorem)
+
+## Contact me
+[![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gWaPG8uuax)
+[![a](https://img.shields.io/badge/Website-fff?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjAiCmhlaWdodD0iNDIwIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiPgo8cGF0aCBzdHJva2Utd2lkdGg9IjI2IgpkPSJNMjA5LDE1YTE5NSwxOTUgMCAxLDAgMiwweiIvPgo8cGF0aCBzdHJva2Utd2lkdGg9IjE4IgpkPSJtMjEwLDE1djM5MG0xOTUtMTk1SDE1TTU5LDkwYTI2MCwyNjAgMCAwLDAgMzAyLDAgbTAsMjQwIGEyNjAsMjYwIDAgMCwwLTMwMiwwTTE5NSwyMGEyNTAsMjUwIDAgMCwwIDAsMzgyIG0zMCwwIGEyNTAsMjUwIDAgMCwwIDAtMzgyIi8+Cjwvc3ZnPg==&logoColor=white)](https://synergybest.dev)
+
+I am Synergy#4200 (543599597210304542) on discord, no one else is me.
 
 [//]: # (I don't know why you're back here, but please DON'T use my readmestats use https://github.com/anuraghazra/github-readme-stats thanks!)
-<!--
-Does this work too? 
--->
