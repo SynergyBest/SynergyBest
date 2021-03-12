@@ -2,9 +2,9 @@
 
 ## Stats
 
-![Top Langs](https://readmestats.tk/api/top-langs/?username=SynergyBest&langs_count=3&count_private=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-delta-lac.vercel.app/?username=SynergyBest&langs_count=3&count_private=true&theme=dark&layout=compact)
 
-![SynergyBest's github stats](https://readmestats.tk/api?username=SynergyBest&count_private=true&show_icons=true&theme=dark)
+![SynergyBest's github stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&show_icons=true&theme=dark)
 
 ## Spotify (used rarely)
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jdqa26ml3wmhjt10cmsw527x4&cover_image=true&theme=novatorem)
