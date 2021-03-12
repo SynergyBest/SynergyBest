@@ -2,7 +2,7 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-delta-lac.vercel.app/?username=SynergyBest&langs_count=3&count_private=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats-delta-lac.vercel.app/api/top-langs/?username=SynergyBest&langs_count=3&count_private=true&theme=dark&layout=compact)
 
 ![SynergyBest's github stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&show_icons=true&theme=dark)
 
