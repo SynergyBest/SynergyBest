@@ -1,8 +1,8 @@
 ### 👋 Hello there!
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> I know python
+- <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/python.svg"> I know python
 - <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg">
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> I'm currently learning js!
+- <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/javascript.svg"> I'm currently learning js!
 [![stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&theme=dark&hide=stars)](#)
 
 [![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gWaPG8uuax)
