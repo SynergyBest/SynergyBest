@@ -1,12 +1,10 @@
 ### 👋 Hello there!
 
-- I know python
-- I'm also proficient with html & css
-- I'm currently learning js!
-- Languages I'm using/learning <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/javascript.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/python.svg">
+I'm Theo, an aspiring developer
 
 
-[![stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&theme=dark&hide=stars)](#)
+
+
 
 [![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gWaPG8uuax)
 [![a](https://img.shields.io/badge/Email%20Me!-000000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:theo@synergybest.dev)
