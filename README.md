@@ -3,9 +3,7 @@
 - I know python
 - I'm also proficient with html & css
 - I'm currently learning js!
-- Languages I'm using/learning
-
-<img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/javascript.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/python.svg">
+- Languages I'm using/learning <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/javascript.svg"> <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/python.svg">
 
 
 [![stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&theme=dark&hide=stars)](#)
