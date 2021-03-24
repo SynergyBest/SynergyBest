@@ -1,7 +1,7 @@
 ### 👋 Hello there!
 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> I know python
-- <code><img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg"></code>
+- <img height="20" src="https://raw.githubusercontent.com/SynergyBest/Synergybest/main/assets/css.svg">
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> I'm currently learning js!
 [![stats](https://github-readme-stats-delta-lac.vercel.app/api?username=SynergyBest&count_private=true&theme=dark&hide=stars)](#)
 
