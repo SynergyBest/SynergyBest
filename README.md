@@ -4,7 +4,7 @@ I'm Theo, an aspiring developer. I'm primarily focused on web development, but I
 
 - 🏢 I'm currently working on passion projects
 - 💭 I'm currently learning Javascript & Node.js + some frameworks
-- ✉️ The way to reach me is on discord: Synergy#4200 (543599597210304542) or email: theo@synergystudios.tech
+- ✉️ The way to reach me is by discord: Synergy#4200 or email: theo@synergystudios.tech
 - ⌨️ Fun fact: I know HTML, CSS, & Python
 
 [![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gWaPG8uuax)
